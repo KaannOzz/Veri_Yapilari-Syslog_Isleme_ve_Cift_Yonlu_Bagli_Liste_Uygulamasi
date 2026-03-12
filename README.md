@@ -33,4 +33,3 @@ Projeyi çalıştırmak için sisteminizde `gcc` derleyicisinin kurulu olması g
 ## 📂 Dosya Yapısı
 `syslog_list.c`: Çift yönlü bağlı liste ve ana program mantığını içeren C kodu.
 `syslog.txt`: Programın okuyacağı örnek log dosyası (Önceden oluşturulmalı).
-`README.md`: Proje açıklaması ve kullanım rehberi.
